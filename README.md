@@ -1,24 +1,18 @@
-<h1 align="left">Bienvenidos</h1>
+
+###
+<h1 align="center">👨‍💻 ¡Hola, soy Gabriel! 🚀</h1>
+
+###
+<p align="center">
+  <strong>Ingeniero en Electrónica en proceso...</strong><br>
+  🐍 Python | 📊 Analisis de datos | 🔧 Sistemas embebidos<br>
+  💡 Aprendiendo, experimentando y compartiendo 🚀
+</p>
+
 
 ###
 
-<p align="left">Mi nombre es Gabriel Molteni, soy de Argentina.</p>
-
-###
-
-<h2 align="left">Acerca de mi</h2>
-
-###
-
-<p align="left">✨ Autodidacta<br>📚 Estudiante de Ingeniería en Electrónica.<br>🎯 Cientifico de datos.</p>
-
-###
-
-<h2 align="left">Proyectos en</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -38,3 +32,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
+###
+
+<h2 align="center">Contacto</h2>
+
+<p align="center">
+  <a href="https://github.com/fgmolteni">
+    <img src="https://img.shields.io/github/followers/fgmolteni?style=social" alt="Seguidores en GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/fgmolteni">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
